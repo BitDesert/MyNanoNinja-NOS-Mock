@@ -1,0 +1,26 @@
+[
+  {
+    "account": "nos_11z6biqiug5k31448uy38f48q9qgm714153k7spyfpb9qnwrobd6udirkbwe",
+    "alias": "Official Rep #1",
+    "score": 99,
+    "uptime": 99.84370929929669,
+    "delegators": 421,
+    "votingweight": 2.214121759796811e+35
+  },
+  {
+    "account": "nos_3xa89jscojiw3ukxowiduantpi3tscqhwg9tgbn9etua96854zt65rbhc1i9",
+    "alias": "Official Rep #2",
+    "score": 99,
+    "uptime": 99.22872479024441,
+    "delegators": 428,
+    "votingweight": 1.918185145009709e+35
+  },
+  {
+    "account": "nos_3xa89jscojiw3ukxowiduantpi3tscqhwg9tgbn9etua96854zt65rbhc1i9",
+    "alias": "Official Rep #3",
+    "score": 98,
+    "uptime": 99.2705293872447,
+    "delegators": 137,
+    "votingweight": 2.711610727462305e+35
+  }
+]
