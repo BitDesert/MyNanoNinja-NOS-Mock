@@ -1,0 +1,23 @@
+{
+  "account": "nos_3xa89jscojiw3ukxowiduantpi3tscqhwg9tgbn9etua96854zt65rbhc1i9",
+  "lastVoted": "2019-02-04T19:30:09.679Z",
+  "alias": "Official Rep #2",
+  "description": "I'm running some nodes to keep the network fine, and I'm interested in the tech. ",
+  "website": "https://nanode21.cloud/",
+  "score": 100,
+  "location": {
+    "city": "Tokyo",
+    "country": "JP",
+    "latitude": 35.685,
+    "longitude": 139.7514
+  },
+  "uptime": 99.84371744113358,
+  "monitor": {
+    "sync": 99.772,
+    "url": "https://nanode21.cloud/",
+    "version": "RaiBlocks 17.1",
+    "blocks": 16837880
+  },
+  "delegators": 421,
+  "votingweight": 2.214121759796811e+35
+}
